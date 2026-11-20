@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Math
+|  |
+| ------- |
+| [0829-consecutive-numbers-sum](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0829-consecutive-numbers-sum) |
+## Enumeration
+|  |
+| ------- |
+| [0829-consecutive-numbers-sum](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0829-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
