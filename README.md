@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Dynamic Programming
 |  |
 | ------- |
