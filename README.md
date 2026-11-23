@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0227-basic-calculator-ii](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Dynamic Programming
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0829-consecutive-numbers-sum](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0829-consecutive-numbers-sum) |
 ## Enumeration
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
