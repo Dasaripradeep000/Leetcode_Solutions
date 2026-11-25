@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0131-palindrome-partitioning](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0131-palindrome-partitioning](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 ## Manacher
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
