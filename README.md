@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0829-consecutive-numbers-sum](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0829-consecutive-numbers-sum) |
+| [3360-stone-removal-game](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0090-subsets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
