@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Binary Search
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Dasaripradeep000/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Stack
 |  |
 | ------- |
